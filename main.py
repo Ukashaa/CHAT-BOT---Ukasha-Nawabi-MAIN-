@@ -23,4 +23,4 @@ def chat(text):
 
 while(True):
   userInput = input("You: ")
-  print(chat(userInput))
+  print(chat(userInput)))
